@@ -1,4 +1,6 @@
-# ReVanced Magisk Module
+# YouTube Revanced Extended Magisk Module
+## J-Hc & Kanagawa Yamada
+
 [![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
 
 Extensive ReVanced builder  
