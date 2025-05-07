@@ -182,4 +182,5 @@ fi
 
 ui_print "* Done"
 ui_print "  by j-hc (github.com/j-hc)"
+ui_print "  Build By: Kanagawa Yamada"
 ui_print " "
