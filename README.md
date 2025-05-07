@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
 
-Base on: [j-hc Builder](https://github.com/j-hc/revanced-magisk-module)
+Base on: [j-hc Builder](https://github.com/j-hc/revanced-magisk-module) <br />
 Modified builder focused on YouTube Revanced Extended (Also Includes YouTube BTW)
 
 Get the [**latest build**](https://github.com/LoggingNewMemory/revanced-extended-magisk-module/releases/).
