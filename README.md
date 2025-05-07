@@ -4,7 +4,7 @@
 
 Extensive ReVanced builder  
 
-Get the [latest build](https://github.com/LoggingNewMemory/revanced-extended-magisk-module/releases/).
+Get the [**latest build**](https://github.com/LoggingNewMemory/revanced-extended-magisk-module/releases/).
 
 Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules. 
 
