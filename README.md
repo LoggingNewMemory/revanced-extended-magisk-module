@@ -2,6 +2,9 @@
 
 [![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
 
+## NOTE
+### Grant YouTube app root access after installing module
+
 Base on: [j-hc Builder](https://github.com/j-hc/revanced-magisk-module) <br />
 Modified builder focused on YouTube Revanced Extended (Also Includes YouTube BTW)
 
